@@ -4,7 +4,7 @@ title: "বাফুফের নতুন প্রশিক্ষণ পদ্
 category: খেলা
 author: খেলা ডেস্ক
 cover:
-   image: https://www.bff.com.bd/uploads/050817.png
+   image: /assets/images/bd-team-training.jpeg
    alt: খেলোয়াড়রা ট্রেইনিং করছেন
    caption: খেলোয়াড়রা ট্রেইনিং করছেন; সোর্স বাফুফে
    show_in_list: true
