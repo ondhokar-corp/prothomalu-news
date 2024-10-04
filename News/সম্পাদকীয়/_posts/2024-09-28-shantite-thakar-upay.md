@@ -4,18 +4,19 @@ author: সম্পাদক
 layout: post
 place: মরণপুর
 cover:
-   image: /assets/images/shantite-achi.jpeg
-   alt: বড়ই আরাম
-   caption: শান্তিতে থাকুন, শান্তিতে রাখুন
+  image: /assets/images/shantite-achi.jpeg
+  alt: বড়ই আরাম
+  caption: শান্তিতে থাকুন, শান্তিতে রাখুন
+weight: 91
 ---
+### উপায় ১
+উপায় ১
 
-- এক
-- দুই
-- তিন
-- চার
-- পাঁচ
-- ছয়
-- সাত 
-- আট 
-- নয়
-- দশ 
+### উপায় ২
+উপায় ২
+
+### উপায় ৩
+উপায় ৩
+
+### উপায় ৪
+উপায় ৪
