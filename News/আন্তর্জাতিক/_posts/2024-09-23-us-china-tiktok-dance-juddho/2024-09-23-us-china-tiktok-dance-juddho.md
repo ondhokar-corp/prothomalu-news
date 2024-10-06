@@ -4,7 +4,7 @@ author: চীন ও আমেরিকা প্রতিনিধি
 layout: post
 place: নিউ ইয়র্ক, বেইজিং
 cover:
-  image: /assets/images/joe-biden-dancing.jpg
+  image: joe-biden-dancing.jpg
   alt: জো বাইডেনের ব্রেক ড্যান্স
   caption: জো বাইডেন টিকটকের জন্য ড্যান্স দিচ্ছেন
 weight: 90

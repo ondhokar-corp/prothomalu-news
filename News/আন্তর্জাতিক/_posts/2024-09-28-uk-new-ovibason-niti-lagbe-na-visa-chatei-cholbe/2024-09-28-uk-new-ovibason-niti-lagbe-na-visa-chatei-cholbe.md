@@ -4,7 +4,7 @@ author: লন্ডন প্রতিনিধি
 place: লন্ডন
 layout: post
 cover:
-   image: /assets/images/british-cha-biscuits.jpeg
+   image: british-cha-biscuits.jpeg
    alt: যুক্তরাজ্যের চা ও বিস্কুট
    caption: যুক্তরাজ্যের চা ও বিস্কুট
 ---
