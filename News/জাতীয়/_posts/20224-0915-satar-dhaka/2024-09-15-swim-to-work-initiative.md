@@ -1,10 +1,11 @@
 ---
 layout: post
+categories: রাজধানী
 title: ঢাকা শহরের প্রধান সড়কগুলো প্লাবিত, সিটি কর্পোরেশনের 'সাঁতার কেটে ভাড়া বাঁচান' ক্যাম্পেইন চালু
 author: নিজস্ব প্রতিবেদক
 place: ঢাকা
 cover:
-  image: http://www.xinhuanet.com/english/2017-09/12/136601918_15051721469751n.jpg
+  image: satar-katun-dhakay.png
   alt: তীব্র বর্ষণে ঢাকা এখন নদী
   caption: তীব্র বর্ষণে ঢাকা এখন নদী
 ---
