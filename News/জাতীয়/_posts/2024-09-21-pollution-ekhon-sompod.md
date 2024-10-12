@@ -5,6 +5,11 @@ author: নিজস্ব প্রতিবেদক
 layout: post
 p_brand: ঢাকোটু™ (DhaCO<sub>2</sub>™)
 p_kormokorta: অকসিফুল
+categories: রাজধানী
+tags:
+  - বায়ুদূষণ
+  - পরিবেশ
+  - প্রকল্প
 ---
 
 
